@@ -1,4 +1,4 @@
-# simon
+# Game "Simon says"
 
 ## Project setup
 ```
