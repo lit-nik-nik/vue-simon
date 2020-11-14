@@ -1,24 +1,18 @@
-# Game "Simon says"
+# Игра "Simon says memory"
 
-## Project setup
+Электронная игра на запоминание и развитие памяти. Данная игра выпущена Милтоном Брэдли в 1978 году. В игре используются виртуальные и звуковые эффекты. 
+
+## Установка игры
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Компиляция и запуск для разработки
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+### Сборка готового проекта
 ```
 yarn build
 ```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
